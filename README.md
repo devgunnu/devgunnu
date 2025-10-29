@@ -13,7 +13,6 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 - 🔭 Currently working on **[CodeStream](https://github.com/RETR0-OS/code_stream)** - A JupyterLab extension for real-time teacher-student code collaboration
 - 🌱 Learning more about **distributed systems**, **computer vision**, and **AI infrastructure**
 - 🏆 **2nd Place Winner** at DevHacks for **Decoy** - AI-powered scam call detection system
-- 👨‍🏫 Contributing to multiple organizations including **RETR0-OS** and **Arizona Opportunity Hack**
 - 💡 I love discovering new tools and building things that solve real problems
 - 🎯 Looking for **SWE/AI-ML internships** where I can build impactful products
 
@@ -24,7 +23,6 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,15 +89,6 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 ---
 
-### 🌐 [Beautify Me](https://github.com/devgunnu/beautify-me)
-**Frontend Enhancement Tool**
-- JavaScript-based tool for improving web interfaces
-- Focus on user experience and visual design
-
-**Tech:** `JavaScript` `HTML` `CSS`
-
----
-
 ### 🔍 [SniffHound](https://github.com/RETR0-OS/NetworkAnalyser)
 **Network Security Monitor with ML Anomaly Detection**
 - Designed and developed frontend interface for real-time network packet capture and analysis
@@ -109,7 +98,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 **Tech:** `Python` `React` `TensorFlow` `Scapy` `Network Security`
 
-## 🏢 Organizations & Collaborations
+## 🏢 Collaborations
 
 ### [RETR0-OS](https://github.com/RETR0-OS)
 Contributing to multiple open-source projects focused on education technology and AI tools:
@@ -118,7 +107,7 @@ Contributing to multiple open-source projects focused on education technology an
 - **NetworkAnalyser** - ML-powered network security monitoring
 
 ### [Arizona Opportunity Hack](https://github.com/2025-Arizona-Opportunity-Hack)
-Participated in hackathons building solutions for non-profits and community organizations:
+Participated in hackathon building solutions for non-profits and community organizations:
 - **NMTSA Education Platform** - Contributing to educational technology solutions
 
 ## 📊 GitHub Stats
@@ -129,7 +118,6 @@ Participated in hackathons building solutions for non-profits and community orga
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgunnu&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgunnu&theme=tokyonight&hide_border=true)
 
 </div>
 
