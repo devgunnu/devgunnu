@@ -15,6 +15,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
   - **[Beautify Me](https://github.com/devgunnu/beautify-me)** - Educational webcam filter app teaching JavaScript through 8 progressive levels
   - **[CodeStream](https://github.com/RETR0-OS/code_stream)** - JupyterLab extension for real-time teacher-student code collaboration
 - 🌱 Learning more about **distributed systems**, **computer vision**, and **AI infrastructure**
+- 🏆 **1st Place Winner** at HackASU (Claude Builder Club) for **VisionForge** - Developer Tools track
 - 🏆 **2nd Place Winner** at DevHacks for **Decoy** - AI-powered scam call detection system
 - 💡 I love discovering new tools and building things that solve real problems
 - 🎯 Looking for **SWE/AI-ML internships** where I can build impactful products
@@ -55,7 +56,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 ## 🎯 Featured Projects
 
-### 🎨 [VisionForge](https://github.com/devgunnu/visionforge)
+### 🎨 [VisionForge](https://github.com/devgunnu/visionforge) - 🏆 **1st Place @ HackASU (Developer Tools Track)**
 **Visual Neural Network Builder with Code Export**
 - Built drag-and-drop interface for designing deep learning architectures without writing code
 - Implemented automatic shape inference eliminating manual tensor dimension tracking
@@ -63,6 +64,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 - Integrated Google Gemini AI assistant for natural language model modifications
 - Created real-time validation system catching architecture errors before export
 - Supports 20+ layer types including CNNs, LSTMs, ResNets, and custom operations
+- **Won 1st place in Developer Tools track** at HackASU hosted by Claude Builder Club
 - **Contributions**: Solo project - full-stack development, AI integration, and UI/UX design
 
 **Tech:** `React` `TypeScript` `Django` `Python` `Gemini AI` `Tailwind CSS` `ReactFlow` `Vite`
