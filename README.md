@@ -65,7 +65,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 - Created real-time validation system catching architecture errors before export
 - Supports 20+ layer types including CNNs, LSTMs, ResNets, and custom operations
 - **Won 1st place in Developer Tools track** at HackASU hosted by Claude Builder Club
-- **Contributions**: Solo project - full-stack development, AI integration, and UI/UX design
+- **Contributions**:Full-stack development, AI integration, and UI/UX design
 
 **Tech:** `React` `TypeScript` `Django` `Python` `Gemini AI` `Tailwind CSS` `ReactFlow` `Vite`
 
