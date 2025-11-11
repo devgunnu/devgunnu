@@ -12,7 +12,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 - 🔭 Currently working on:
   - **[VisionForge](https://github.com/devgunnu/visionforge)** - Visual neural network builder with drag-and-drop interface and code export
-  - **[Beautify Me](https://github.com/devgunnu/beautify-me)** - Educational webcam filter app teaching JavaScript through 8 progressive levels
+  - **[LearnLens](https://github.com/devgunnu/LearnLens)** - Educational webcam filter app teaching JavaScript through 8 progressive levels
   - **[CodeStream](https://github.com/RETR0-OS/code_stream)** - JupyterLab extension for real-time teacher-student code collaboration
 - 🌱 Learning more about **distributed systems**, **computer vision**, and **AI infrastructure**
 - 🏆 **1st Place Winner** at HackASU (Claude Builder Club) for **VisionForge** - Developer Tools track
@@ -83,7 +83,7 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 ---
 
-### 🎓 [Beautify Me](https://github.com/devgunnu/beautify-me)
+### 🎓 [LearnLens](https://github.com/devgunnu/LearnLens)
 **Educational Webcam Filter App - Learn JavaScript Through Building**
 - Created comprehensive JavaScript learning platform with 8 progressive levels
 - Designed educational pathway covering React, Canvas API, WebRTC, and Machine Learning
