@@ -71,6 +71,18 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 ---
 
+### 🛡️ [Decoy](https://github.com/devgunnu/spambotprank) - 🏆 **2nd Place @ DevHacks**
+**AI-Powered Scam Call Detection & Routing System**
+- Built complete call routing infrastructure in 24-hour hackathon with 4-person team
+- Engineered Twilio & Vapi integration that automatically routes suspected scam calls to AI personas
+- Developed 4 distinct AI personalities that keep scammers engaged while protecting users
+- Created analytics dashboard tracking call duration, persona effectiveness, and system health
+- Integrated trained ML models with call routing logic for real-time risk profiling
+
+**Tech:** `Python` `FastAPI` `Twilio` `Vapi` `SQLite` `11labs` `Machine Learning`
+
+---
+
 ### 🎓 [Beautify Me](https://github.com/devgunnu/beautify-me)
 **Educational Webcam Filter App - Learn JavaScript Through Building**
 - Created comprehensive JavaScript learning platform with 8 progressive levels
@@ -95,18 +107,6 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 - **Contributions**: Frontend development, landing page design, and WebSocket integration
 
 **Tech:** `Python` `JavaScript` `Redis` `WebSockets` `JupyterLab` `Docker` `Tornado`
-
----
-
-### 🛡️ [Decoy](https://github.com/devgunnu/spambotprank) - 🏆 **2nd Place @ DevHacks**
-**AI-Powered Scam Call Detection & Routing System**
-- Built complete call routing infrastructure in 24-hour hackathon with 4-person team
-- Engineered Twilio & Vapi integration that automatically routes suspected scam calls to AI personas
-- Developed 4 distinct AI personalities that keep scammers engaged while protecting users
-- Created analytics dashboard tracking call duration, persona effectiveness, and system health
-- Integrated trained ML models with call routing logic for real-time risk profiling
-
-**Tech:** `Python` `FastAPI` `Twilio` `Vapi` `SQLite` `11labs` `Machine Learning`
 
 ---
 
