@@ -10,7 +10,10 @@
 
 CS student at **Arizona State University** building AI/ML tools that make complex technology accessible. I thrive in fast-paced environments—hackathons are where I do my best work—and I'm passionate about creating solutions that enhance the human experience.
 
-- 🔭 Currently working on **[CodeStream](https://github.com/RETR0-OS/code_stream)** - A JupyterLab extension for real-time teacher-student code collaboration
+- 🔭 Currently working on:
+  - **[VisionForge](https://github.com/devgunnu/visionforge)** - Visual neural network builder with drag-and-drop interface and code export
+  - **[Beautify Me](https://github.com/devgunnu/beautify-me)** - Educational webcam filter app teaching JavaScript through 8 progressive levels
+  - **[CodeStream](https://github.com/RETR0-OS/code_stream)** - JupyterLab extension for real-time teacher-student code collaboration
 - 🌱 Learning more about **distributed systems**, **computer vision**, and **AI infrastructure**
 - 🏆 **2nd Place Winner** at DevHacks for **Decoy** - AI-powered scam call detection system
 - 💡 I love discovering new tools and building things that solve real problems
@@ -51,6 +54,35 @@ CS student at **Arizona State University** building AI/ML tools that make comple
 
 
 ## 🎯 Featured Projects
+
+### 🎨 [VisionForge](https://github.com/devgunnu/visionforge)
+**Visual Neural Network Builder with Code Export**
+- Built drag-and-drop interface for designing deep learning architectures without writing code
+- Implemented automatic shape inference eliminating manual tensor dimension tracking
+- Developed multi-framework export system generating clean PyTorch and TensorFlow code
+- Integrated Google Gemini AI assistant for natural language model modifications
+- Created real-time validation system catching architecture errors before export
+- Supports 20+ layer types including CNNs, LSTMs, ResNets, and custom operations
+- **Contributions**: Solo project - full-stack development, AI integration, and UI/UX design
+
+**Tech:** `React` `TypeScript` `Django` `Python` `Gemini AI` `Tailwind CSS` `ReactFlow` `Vite`
+
+---
+
+### 🎓 [Beautify Me](https://github.com/devgunnu/beautify-me)
+**Educational Webcam Filter App - Learn JavaScript Through Building**
+- Created comprehensive JavaScript learning platform with 8 progressive levels
+- Designed educational pathway covering React, Canvas API, WebRTC, and Machine Learning
+- Built 20+ CSS filters with real-time webcam processing and intensity controls
+- Integrated TensorFlow.js for face detection with 68-point facial landmarks
+- Implemented Google Gemini Vision API for AI-powered skin analysis and recommendations
+- Developed draggable sticker system with coordinate transformations
+- Structured project with git branches for each learning level and solution references
+- **Contributions**: Solo project - curriculum design, full implementation, and documentation
+
+**Tech:** `React` `JavaScript` `WebRTC` `Canvas API` `TensorFlow.js` `Gemini Vision API` `Face-API.js`
+
+---
 
 ### 🔊 [CodeStream](https://github.com/RETR0-OS/code_stream) 
 **JupyterLab Extension for Real-Time Collaborative Learning**
@@ -118,12 +150,25 @@ Participated in hackathon building solutions for non-profits and community organ
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgunnu&layout=compact&theme=tokyonight&hide_border=true)
   
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devgunnu&theme=tokyonight&hide_border=true)
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=devgunnu&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devgunnu&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ## 🏃‍♂️ Current Focus
 
-- 🔨 Building **CodeStream** to revolutionize classroom coding workshops
+- 🎨 Building **VisionForge** - visual neural network builder revolutionizing deep learning prototyping
+- 🎓 Developing **Beautify Me** - educational platform teaching JavaScript through hands-on projects
+- 🔨 Enhancing **CodeStream** to revolutionize classroom coding workshops
 - 🤖 Exploring **real-time collaboration** architectures and distributed systems
 - 📚 Contributing to open-source projects in AI/ML and education technology
 - 🎯 Participating in hackathons and building innovative solutions
